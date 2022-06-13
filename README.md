@@ -1,2 +1,2 @@
 # R-data-science
-Aggregate the interesting R-data-science projects
+An aggregation of my interesting R-data-science projects
