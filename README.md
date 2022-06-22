@@ -8,4 +8,4 @@ An aggregation of my interesting R-data-science projects
 
 4. use MCMC(Markov chain Monte Carlo) method to crack the encrypted codes: [https://github.com/yungson/code-cracking](https://github.com/yungson/code-cracking)
 
-5. Using a moran's statistics to to hypothesis tests to judge whether a grid is random or not: [https://github.com/yungson/moran-statistics](https://github.com/yungson/moran-statistics)
+5. Using a moran's statistics to do hypothesis tests to judge whether a grid is random or not: [https://github.com/yungson/moran-statistics](https://github.com/yungson/moran-statistics)
